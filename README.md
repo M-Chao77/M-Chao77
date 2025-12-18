@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello! I'm Matthew, a Statistical Data Science major at UC Davis experience working on data analysis and modeling projects using Python and R, with foundational expoerience in SQL. I’m currently seeking data science / data analytics internship opportunities where I can continue building practical, industry-relevant skills.
+---
 
-<!--
-**M-Chao77/M-Chao77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills (Actively Developing)
 
-Here are some ideas to get you started:
+### Languages:
+- **Python** - Data cleaning & analysis (NumPy, Pandas), visualization (Matplotlib, Seaborn), regression modeling & NLP
+- **R** - Data manipulation (tidyverse), visualization (ggplot2), statistical analysis
+- **SQL** - Basic querying, filtering, joins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Environments:
+- **Jupyter Notebooks** - exploratory analysis, modeling, documentation
+- **Rstudio** - statistical analysis and visualization
+
+## Contact Information
+- **LinkedIn:** www.linkedin.com/in/matthew-chao-500942247
+- **Email:** matthew.chao77@gmail.com
