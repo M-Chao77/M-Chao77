@@ -1,4 +1,4 @@
-### Hello! I'm Matthew, a Statistical Data Science major at UC Davis experience working on data analysis and modeling projects using Python and R, with foundational expoerience in SQL. I’m currently seeking data science / data analytics internship opportunities where I can continue building practical, industry-relevant skills.
+### Hello! I'm Matthew, a Statistical Data Science major at UC Davis with experience working on data analysis and modeling projects using Python and R, with foundational expoerience in SQL. I’m currently seeking data science / data analytics internship opportunities where I can continue building practical, industry-relevant skills.
 ---
 
 ## Technical Skills (Actively Developing)
